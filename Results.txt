@@ -1,0 +1,18 @@
+Confusion Matrix and Statistics
+
+             Reference
+Prediction    high_prob low_prob medium_prob
+  high_prob        3409        0           0
+  low_prob            0     1595           0
+  medium_prob         0     1663        3333
+
+Overall Statistics
+                                          
+               Accuracy : 0.8337          
+                 95% CI : (0.8263, 0.8409)
+    No Information Rate : 0.3409          
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.75            
+                                          
+ Mcnemar's Test P-Value : NA              
